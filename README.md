@@ -75,15 +75,3 @@
     <img src="https://komarev.com/ghpvc/?username=Hchaichi94">
 </a>
 <a href="https://github.com/wassimmhamdi?tab=followers"><img src="https://img.shields.io/github/followers/wassimmhamdi?label=Followers&style=social" alt="GitHub Badge"></a>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
