@@ -63,10 +63,11 @@
 
 ## Connect with me:
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/wassimm7amdi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+<a href="https://linkedin.com/in/wassimm7amdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wassimm7amdi" height="30" width="40" /></a>
+<a href="https://fb.com/wassim01wassouma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wassim01wassouma" height="30" width="40" /></a>
+<a href="https://instagram.com/wassim_mhamdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wassim_mhamdi" height="30" width="40" /></a>
 </p>
 
 ## ❤ Views and Followers
