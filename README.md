@@ -48,9 +48,3 @@
 <a href="https://instagram.com/wassim_mhamdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wassim_mhamdi" height="30" width="40" /></a>
 </p>
 
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Hchaichi94">
-</a>
-<a href="https://github.com/wassimmhamdi?tab=followers"><img src="https://img.shields.io/github/followers/wassimmhamdi?label=Followers&style=social" alt="GitHub Badge"></a>
