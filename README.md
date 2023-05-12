@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
--   🔭 I’m currently working at **[eXo Platform](https://www.linkedin.com/company/exo-platform/mycompany/)**
+-   🔭 I’m currently working at **[SIGA](https://www.linkedin.com/company/siga-informatique/)**
 
 -   🌱 I’m currently learning **Data Structures and Algorithms.**
 
