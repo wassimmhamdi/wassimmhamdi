@@ -11,7 +11,7 @@
 
 -   👯 I’m looking to collaborate on **OpenSource Projects**
 
--   📫 How to reach me **wassimm7amdi@gmial.com**
+-   📫 How to reach me **wassimm7amdi@gmail.com**
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left"> 
@@ -36,7 +36,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/wassimmhamdi/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wassimmhamdi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
